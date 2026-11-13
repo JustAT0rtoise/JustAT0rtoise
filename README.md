@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-<!--
+I'm Chris, an indie video game developer, a content creator, and a student. 
+
+Ever since developing a video game using block-based coding in middle school, I’ve been hooked on game and software development ever since. 
+
+Since then, I've created two video games: Geometry Hunter, a 2D roguelite built in Unity, and Chaos Company, a 3D multiplayer party game built in Roblox Studio. I developed a RESTful API, SQL database, and Discord bot with .NET. I’ve grown a community of over 9k subscribers on YouTube with 1M+ views, self-hosted my software on home servers, and continue to develop my knowledge in CS and cybersecurity out of class through self-learning. 
+
+If you have questions pertaining to my content, please email me [here](mailto:justatortoisebusiness@example.com). If you have other professional questions, please contact me through my LinkedIn. 
+<!-- 
 **JustAT0rtoise/JustAT0rtoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
